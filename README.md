@@ -40,4 +40,38 @@ Sales performance by category and profit comparisons
 ## Dashboard
 ![superstore_sales_dashboard](https://github.com/user-attachments/assets/4dab8309-80be-4186-8e2d-eaeec6153b02)
 
+### Key Insights & Findings
+
+## Regional Performance
+-	West Region Dominates Profitability: Generates $108K in profit (highest among all regions).
+-	Central Region Underperforms: Despite offering the highest discounts (24% avg. discount), profits are lowest ($39K).
+
+## Product Category Analysis
+-	Profit Drivers: Phones (Technology) contribute $44.5K profit (highest margin).
+Chairs (Furniture) generate $26.6K profit despite high sales volume.
+
+## Customer Behaviour
+-	Repeat Customers: 788 unique customers make multiple purchases (indicates moderate loyalty).
+-	Consumer Segment: Drives 51% of sales but only 47% of profits
+-	Corporate Segment: Contributes 31% of sales but 32% of profits (higher margin).
+
+## Sales Trends
+-	Seasonal Fluctuations: Peaks in Q4 (holiday season) and dips in Q2.
+-	Growth Opportunity: Overall sales increased by ~10% YoY from 2014–2017.
+
+### Recommendations
+-	Optimize Pricing & Discounts: Reduce discounts in the Central Region to boost profitability (currently 24% discount vs. 11% in West).
+-	Consider dynamic pricing for low-margin products (e.g., Consumer Segment items).
+-	Inventory & Supply 	Chain: Prioritize restocking Phones, Chairs, and Storage (top-selling subcategories).
+-	Customer Retention Strategy: Analyse repeat customer demographics to personalize promotions.
+
+
+
+
+
+
+
+
+
+
 
