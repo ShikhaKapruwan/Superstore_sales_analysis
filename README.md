@@ -37,3 +37,7 @@ Sales performance by category and profit comparisons
 -	Used DAX to create custom measures, such as:
 **Average Delivery Time**= `DATEDIFF(Order date, Ship Date, Day)`
 
+## Dashboard
+![superstore_sales_dashboard](https://github.com/user-attachments/assets/4dab8309-80be-4186-8e2d-eaeec6153b02)
+
+
