@@ -40,6 +40,9 @@ Sales performance by category and profit comparisons
 ## Dashboard
 ![superstore_sales_dashboard](https://github.com/user-attachments/assets/4dab8309-80be-4186-8e2d-eaeec6153b02)
 
+## Sales Forecast
+![Superstore_sales_forecast](https://github.com/user-attachments/assets/ac290317-8872-406b-a244-95c6f72eda3a)
+
 ## Key Insights & Findings
 
 ### Regional Performance
