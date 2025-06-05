@@ -40,9 +40,6 @@ Sales performance by category and profit comparisons
 ## Dashboard
 ![superstore_sales_dashboard](https://github.com/user-attachments/assets/4dab8309-80be-4186-8e2d-eaeec6153b02)
 
-## Sales Forecast
-![Superstore_sales_forecast](https://github.com/user-attachments/assets/ac290317-8872-406b-a244-95c6f72eda3a)
-
 ## Key Insights & Findings
 
 ### Regional Performance
@@ -68,9 +65,25 @@ Chairs (Furniture) generate $26.6K profit despite high sales volume.
 -	Inventory & Supply 	Chain: Prioritize restocking Phones, Chairs, and Storage (top-selling subcategories).
 -	Customer Retention Strategy: Analyse repeat customer demographics to personalize promotions.
 
+## Sales Forecasting & Analysis
+![Superstore_sales_forecast](https://github.com/user-attachments/assets/ac290317-8872-406b-a244-95c6f72eda3a)
 
+### **Key Observations from the Forecast**  
+1. **Peak Sales Months**:  
+   - **March and May 2018** are projected as peak sales periods, with forecasts exceeding $68K and $65K respectively.  
+   - *Implication*: These months present opportunities for targeted promotions, seasonal campaigns, or increased inventory allocation.  
 
+2. **Stable Upward Trend**:  
+   - Despite monthly fluctuations (e.g., dips in February and April), the model indicates an **overall upward trajectory** in sales over the 6-month period.  
+   - *Implication*: The business can plan for sustained growth, potentially scaling operations or expanding into high-performing regions.  
 
+3. **Regional Focus**:  
+   - **California** dominates sales ($0.46M), while **Texas** and **New York** show strong potential.  
+   - *Action Item*: Allocate marketing budgets proportionally to these states and explore expansion in underperforming regions (e.g., Virginia).  
+
+4. **Uncertainty Management**:  
+   - The **confidence intervals** (e.g., January’s range of $22K–$60K) highlight variability, emphasizing the need for flexible planning.  
+   - *Strategy*: Maintain safety stock and diversify revenue streams to mitigate risks during lower-bound scenarios.  
 
 
 
